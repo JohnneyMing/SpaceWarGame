@@ -18,7 +18,7 @@ import spaceWar.SpaceCraft;
  *  collisions caused by client movements and sends
  *  appropriate removal information.
  *  
- * @author bachmaer
+ * @author Dr.bachmaer, MINGWEI ZHONG
  */
 class BestEffortServer extends Thread {
 	
