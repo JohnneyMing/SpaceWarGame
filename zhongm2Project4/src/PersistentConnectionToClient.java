@@ -12,7 +12,7 @@ import spaceWar.SpaceCraft;
 import spaceWar.Torpedo;
 
 /**
- * @author bachmaer
+ * @author MINGWEI ZHONG
  * 
  * Class to listen for clients sending information reliably 
  * using TCP. It takes care of the following events:
