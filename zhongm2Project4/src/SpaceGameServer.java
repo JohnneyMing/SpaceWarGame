@@ -1,4 +1,3 @@
-
 import java.io.ByteArrayOutputStream;
 import java.io.DataOutputStream;
 import java.io.IOException;
@@ -15,7 +14,7 @@ import spaceWar.*;
 
 
 /**
- * @author bachmaer
+ * @author Mingwei zhong, bachmaer
  *
  * SpaceGameServer. Implements a server to support a multiuser game in
  * which clients maneuver spacecraft through a shared virtual world and 
